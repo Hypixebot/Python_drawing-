@@ -1,5 +1,3 @@
-
-
 import turtle as t
 t.bgcolor('black')
 t.pencolor('white')
@@ -17,7 +15,6 @@ t.rt(90)
 t.fd(120)
 t.rt(90)
 t.fd(40)
-#subhanker codes
 t.rt(90)
 t.fd(80)
 t.lt(90)
@@ -33,7 +30,6 @@ t.fd(80)
 t.rt(90)
 t.fd(40)
 t.end_fill()
-#subhanker codes
 t.up()
 t.bk(140)
 #r
@@ -77,7 +73,6 @@ t.rt(90)
 t.fd(100)
 t.rt(90)
 t.down()
-#e
 t.fillcolor('white')
 t.begin_fill()
 t.fd(200)
@@ -87,7 +82,6 @@ t.rt(90)
 t.fd(120)
 t.rt(90)
 t.fd(40)
-#subhanker codes
 t.rt(90)
 t.fd(80)
 t.lt(90)
@@ -152,7 +146,6 @@ t.fd(40)
 t.rt(90)
 t.fd(80)
 t.lt(90)
-#subhanker codes
 t.fd(40)
 t.lt(90)
 t.fd(80)
@@ -192,7 +185,6 @@ for i in range(4):
     t.rt(90)
     t.fd(22)
 t.seth(90)
-#subhanker codes
 t.fd(20)
 t.lt(120)
 t.fd(20)
@@ -232,7 +224,6 @@ t.fd(9)
 t.rt(90)
 t.fd(75)
 t.end_fill()
-#subhanker codes
 t.up()
 t.rt(90)
 t.fd(100)
@@ -257,7 +248,6 @@ t.fd(90)
 t.rt(90)
 t.fd(40)
 t.up()
-#subhanker codes
 t.end_fill()
 t.bk(40)
 t.rt(90)
@@ -299,7 +289,6 @@ t.fd(80)
 t.rt(90)
 t.fd(40)
 t.rt(90)
-#subhanker codes
 t.fd(80)
 t.lt(90)
 t.fd(40)
@@ -310,8 +299,6 @@ t.fd(40)
 t.rt(90)
 t.fd(120)
 t.end_fill()
-t.ht()         
+t.ht()
 t.done()
-#subhanker codes
-
-
+#Kevin codes
