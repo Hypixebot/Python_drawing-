@@ -1,7 +1,7 @@
 from turtle import*
 setup(1366,768)
 speed(0)
-title("Sharp Art Coding Creations")
+title("indian army")
 
 
 ##flag
